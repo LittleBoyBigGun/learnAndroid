@@ -1,0 +1,7 @@
+# ignore gvim temp file
+*~
+*.swp
+
+# ignore markdown file in _book recursivity
+
+_book/**/*.md

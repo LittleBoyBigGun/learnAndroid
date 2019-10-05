@@ -1,0 +1,43 @@
+{
+    "title":"Android校招面试指南",
+    "description":"Android面试必备，记录自己的秋招之路",
+	"author":"yuxiangzhifeng",
+	"language":"en, zh-hans",
+	"gitbook":"3.2.3",
+	"link":{ 
+		"sidebar":{
+			"Home":""
+		}
+	},
+
+	"style":{
+		"website": "styles/website.css",
+		"ebook": "styles/ebook.css",
+		"pdf": "styles/pdf.css",
+		"mobi": "styles/mobi.css",
+		"epub": "styles/epub.css"	
+	},
+	
+	
+	"plugins": [
+    "-search",
+	"-sharing",
+    "back-to-top-button",
+    "expandable-chapters-small",
+	"code",
+	"search-pro",
+	"tbfed-pagefooter",
+	"pageview-count",
+	"auto-scroll-table",
+	"popup"
+   ],
+   "pluginsConfig":{
+   		"tbfed-pagefooter":{
+			"copyright":"Copyright &copy yuxiangzhifeng 2019",
+			"modify_label":"该文件修订时间:",
+			"modify_format":"YYYY-MM-DD HH:mm:ss"
+		}
+		
+   }
+
+}
