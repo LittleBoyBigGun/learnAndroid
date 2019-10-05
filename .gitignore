@@ -4,4 +4,4 @@
 
 # ignore markdown file in _book recursivity
 
-_book/**/*.md
+docs/**/*.md
